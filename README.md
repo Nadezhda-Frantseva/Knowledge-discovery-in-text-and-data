@@ -1,1 +1,3 @@
-# Knowledge-discovery-in-text-and-data
+Knowledge Discovery in Text and Data (KDT & KDD) is the process of extracting useful information, patterns, and knowledge from unstructured text and structured data. This process integrates techniques from various fields, including machine learning, statistics, natural language processing (NLP), and databases.
+
+The aim of the current course project is to explore and compare different news classification models using different approaches such as SVM, Naive Bayes and RandomForest and different transformer-based models such as BERT, RoBERTa and DistilBERT. The project aims to demonstrate the capabilities of modern natural language processing technologies in text classification applications.
